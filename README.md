@@ -88,11 +88,11 @@ Top 15 Participant, Asian Economics Olympiad 2024
 What I'm Looking For
 
 # I am currently looking for opportunities in:
-Junior Data Analyst roles
-Junior Data Engineer roles
-Data Science internships
-Financial analytics internships
-Python / SQL automation projects
+Junior Data Analyst roles ;
+Junior Data Engineer roles ;
+Data Science internships ;
+Financial analytics internships ;
+Python / SQL automation projects ;
 
 
 I am especially interested in roles where I can work with real datasets, build useful pipelines, improve decision-making, and apply data science to finance, economics, or public-sector problems.
